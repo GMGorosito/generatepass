@@ -6,7 +6,7 @@
 
 
 ##Links de interes
-https://docs.python.org/3/library/random.html
+[text](https:docs.python.org/3/library/random.html
 
 ##Requirimientos:
 ####No se solicita requerimiento especial alguno.
